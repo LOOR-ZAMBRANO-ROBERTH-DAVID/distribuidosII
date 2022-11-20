@@ -1,0 +1,1 @@
+static const char kFirebaseFingerprint[] = "05:54:AC:F9:6D:9B:E0:9C:10:B4:09:B1:E2:7C:12:AF:B4:C8:6C:EA"; // 2020-02
